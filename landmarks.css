@@ -1,5 +1,5 @@
 /* Use the CSS file to spot if any of your content is NOT contained within at least
-   one landmark role. Any content on a white background is not in a landmark role.
+   one landmark role. The Any content on a white background is not in a landmark role.
 
    This can be an issue if screen reader users are using landmarks to help them 
    find their way around a page. */
